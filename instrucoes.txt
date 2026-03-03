@@ -1,0 +1,85 @@
+Rotina - Passo a Passo
+
+Abro os olhos
+Levanto da cama
+Calço os chinelos
+Ando para frente até a porta do banheiro
+Viro a esquerda
+Ando para frente
+Paro na frente da pia
+Pego a minha escova
+Pego a pasta de dente
+Abro a pasta de dente
+Espremo a conteúdo da pasta de dente sobre as cerdas da escovas
+Levo a escova a boca
+Escovo os dentes
+Abro a torneira
+Lavo a boca
+Fecho a torneira
+Saio do banheiro
+Sigo em frente e depois a direita até a cozinha
+Pego um copo
+Coloco sobre a mesa
+Vou em direção a geladeira
+Abro a porta da geladeira
+Pego a caixa de leite
+Fecho a geladeira
+Volto a mesa
+Coloco o leite no copo
+Despejo o café da garrafa no copo
+Sento na cadeira
+Tomo o café
+Levanto
+Coloco o café na pia
+Pego a esponja
+Coloco detergente sobre a sua superfície verde
+Limpo o copo
+Abro a torneira
+Passo água no copo
+Fecho a torneira
+Coloco a esponja de volta no lugar
+Coloco o copo no escoador
+Volto ao banheiro
+Paro na frente da pia
+Pego a minha escova
+Pego a pasta de dente
+Abro a pasta de dente
+Espremo a conteúdo da pasta de dente sobre as cerdas da escovas
+Levo a escova a boca
+Escovo os dentes
+Abro a torneira
+Lavo a boca
+Fecho a torneira
+Saio do banheiro
+Vou em direção ao meu quarto
+Pego as minhas roupas e me troco
+Saio do quarto
+Vou em direção a porta de saída
+Saio
+Subo a rua de casa
+Viro a esquerda e sigo em frente
+Viro novamente a esquerda e sigo em frente
+Paro no ponto de ônibus
+Espero o ônibus passar
+Dou o sinal
+Espero o ônibus parar
+Entro no ônibus
+Vou em direção a catraca
+Passo o meu bilhete
+Passo a catraca
+Vou até o fundo
+Espero até chegar ao ponto final
+Saio do ônibus
+Sigo em frente
+Entro no túnel
+Ando até o final
+Saio do túnel
+Sigo em frente
+Viro na segunda direta
+Sigo reto até chegar na rua da escola
+Atravesso a rua
+Viro a esquerda
+Vou até o portão
+Viro a direita e depois em frente
+Passo o cartão na catraca
+Cheguei na escola
